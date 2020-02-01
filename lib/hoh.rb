@@ -46,8 +46,7 @@ def naming_system
     {sub_category: "Order",
     {sub_category: "Family", 
     {sub_category: "Genus",
-    {sub_category: "Species"}
-      
+    {sub_category: "Species"
       }
      }
     }
